@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: decoder-config
+
+data:
+  MODEL_NAME: openai-community/gpt2

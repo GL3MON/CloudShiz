@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: node-config
+
+data:
+  MESSAGE: "Hello from Harissh Ragav Dhamodaran 2023BCD0059"
